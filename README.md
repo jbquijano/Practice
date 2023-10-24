@@ -9,7 +9,7 @@
 The goal of Practice is to …
 
 This RMarkdown document is intended for practicing project management in
-R.
+R. First edit. Is this real?
 
 What is special about using `README.Rmd` instead of just `README.md`?
 You can include R chunks like so:
